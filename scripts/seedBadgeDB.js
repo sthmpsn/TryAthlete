@@ -1,12 +1,12 @@
 const mongoose = require("mongoose");
 const db = require("../models");
-const date = new Date();
 
 // This file empties the badges collection and inserts the badges below
 
 mongoose.connect(
   process.env.MONGODB_URI ||
   "mongodb://localhost/tryathlete"
+  // "mongodb://heroku_rrtk9v2w:clj0k02sklrp3u66d5140lceot@ds261296.mlab.com:61296/heroku_rrtk9v2w"
 );
 
 //badge seed
