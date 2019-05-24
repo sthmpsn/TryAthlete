@@ -612,7 +612,7 @@ class App extends Component {
               <Row className="justify-content-center">
                 <Col xs="auto">
                   <GoogleLogin
-                    clientId="907322878909-ceh0tltstqr7ht4eidho9ehj73bs7t1p.apps.googleusercontent.com"
+                    clientId="851290290108-pnb68ekeuraqttehjt2prafliahhmg39.apps.googleusercontent.com"
                     render={renderProps => {
                       return (<Button className="btn-lg btn-primary border-dark mt-5" onClick={renderProps.onClick} disabled={renderProps.disabled}>
                         Login with Google
