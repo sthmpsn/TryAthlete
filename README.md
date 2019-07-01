@@ -23,18 +23,11 @@ https://my-try-athlete.herokuapp.com/
 <img src="design-docs/screenshots/05-Challenges.jpg" width="250" alt="Challenges">
 <img src="design-docs/screenshots/06-Badges.jpg" width="250" alt="Badges">
 <img src="design-docs/screenshots/07-Social.jpg" width="250" alt="Social">
- 
-## Development Team:
-### Front-end:
-* Scott Anderson
-* Ashlen Bruns
 
-### Back-end:
-* Steve Thompson
-* Bryan Bloomquist
-* John Evans
 
-### Database:
-* Steve Thompson
-* John Evans
-
+## Contributors
+* Ashlen Bruns (ashlenbruns)
+* Scott Anderson (ScottTAnderson)
+* Bryan Bloomquist (bryanbloomquist)
+* John Evans (evanjo03)
+* Steve Thompson (sthmpsn)
