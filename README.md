@@ -6,7 +6,7 @@ TryAthlete is a fully-functional full stack fitness tracking application designe
 ## Deployed Application:
 https://my-try-athlete.herokuapp.com/
 
-## Built With
+## Technologies
 * Bootstrap framework (React-Bootstrap)
 * Mongoose
 * MongoDB
