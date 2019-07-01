@@ -16,7 +16,7 @@ https://my-try-athlete.herokuapp.com/
 * Visual Basic - Text Editor
  
 ## Screenshots
-placeholder for images
+![](design-docs/screenshots/01-Splash.jpg =250x)
  
 ## Development Team:
 ### Front-end:
