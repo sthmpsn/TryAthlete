@@ -13,7 +13,6 @@ https://my-try-athlete.herokuapp.com/
 * Express.js
 * React.js
 * Node.js
-* Visual Basic - Text Editor
  
 ## Screenshots
 <img src="design-docs/screenshots/02-Nav.jpg" width="250" alt="Nav">
